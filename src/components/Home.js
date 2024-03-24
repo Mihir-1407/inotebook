@@ -1,8 +1,11 @@
-import React from 'react'
+import Notes from './Notes';
 
 const Home = () => {
+
   return (
-    <div>This is iNotebook</div>
+    <div>
+      <Notes/>
+    </div>
   )
 }
 
