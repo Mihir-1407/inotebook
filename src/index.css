@@ -15,3 +15,7 @@ code {
 i{
   cursor: pointer;
 }
+
+.logo{
+  width:2.5rem;
+}
