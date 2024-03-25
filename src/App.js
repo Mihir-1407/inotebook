@@ -13,7 +13,6 @@ function App() {
     <NoteState>
     <BrowserRouter>
       <Navbar/>
-      <Alert message="WictroniX"/>
       <div className="container">
       <Routes>
       <Route path="/" element={<Home/>} />
